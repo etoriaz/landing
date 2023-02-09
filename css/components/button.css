@@ -1,0 +1,23 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@700');
+
+/* Utilities */
+
+.btn {
+  /* background-color: rgb(8, 215, 146);
+  color: white;
+  border-radius: 20px;
+  padding: 10px 20px; */
+
+  display: inline-block;
+  background-color: #1EDD88;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+
+}
+
+.btn:hover {
+ color: rgb(8, 215, 146);
+ background-color: white;
+}

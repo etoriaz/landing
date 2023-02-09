@@ -1,0 +1,9 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@700');
+/* Utilities */
+
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 200px;
+}

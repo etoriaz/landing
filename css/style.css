@@ -1,0 +1,40 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@700');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v6.1.2/css/all.css');
+
+@import url('https://use.fontawesome.com/releases/v6.1.2/css/all.css');
+
+/*components*/
+@import url(components/card.css);
+@import url(components/button.css);
+@import url(components/banner.css);
+@import url(components/footer.css);
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: Open Sans;
+  color: white;
+}
+.container p {
+  color: rgb(173, 172, 172);
+}
+
+.container h2 {
+  color: black;
+  text-align: center;
+}
+
+h3 {
+  display: block;
+}
+
+.container h3 {
+  color: black;
+}
+
+a {
+  text-decoration: none;
+}
